@@ -42,3 +42,4 @@ The game does not have any external dependencies beyond the Java Standard Librar
 
 ## Authors
 Michelle Gaia Victoriano
+
