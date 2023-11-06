@@ -13,7 +13,7 @@ The Java Snake Game is a classic snake game implemented in Java. It features a s
 
 ## Prerequisites
 
-- Java 17 or later
+- Java 11 or later
 
 ## Installation
 
@@ -29,13 +29,6 @@ cd JavaSnakeGame
 javac SnakeGame.java
 java SnakeGame
 ```
-
-## Gameplay
-
-- Control the snake using the 'W', 'A', 'S', and 'D' keys.
-- Collect apples to increase your score.
-- Beware of the turbo and slow-down apples that affect the snake's speed.
-- Click the "Reset" button to start a new game.
 
 ##  Dependencies
 The game does not have any external dependencies beyond the Java Standard Library. The project's configuration is managed through the provided pom.xml and Java compilation.
